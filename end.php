@@ -76,7 +76,7 @@ $apiToken = "5830940342:AAFD-f94b1SfPAJnjOqi07f4rGhr-hGskos";
 
 
 $data = [
-  'chat_id' => '@Printhotsbot',
+  'chat_id' => '@printhost',
 
    'text' => $message
 ];
